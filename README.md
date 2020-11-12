@@ -1,5 +1,6 @@
 # Most-used-words
 
+Projeto em Electron e VueJS.
 
 ## Criando Projeto
 ```
